@@ -454,13 +454,13 @@
     "message": "هنوز مشارکت‌کننده‌ای برای این مخزن یافت نشده است."
   },
   "contributors.main.heading": {
-    "message": "مشارکت‌کنندگان اصلی"
+    "message": "مشارکت‌کنندگان "
   },
   "contributors.others.heading": {
     "message": "مشارکت‌کنندگان"
   },
   "contributors.badge.main": {
-    "message": "اصلی"
+    "message": "مشارکت کنندگان"
   },
   "contributors.contributions": {
     "message": "مشارکت"
